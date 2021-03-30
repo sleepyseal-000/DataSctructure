@@ -48,7 +48,7 @@ public:
 
 class Italian_Restaurant : public Restaurant {
 
-	// So here is the italian menu
+	// Here is the italian menu
 	
 	public:
 	Italian_Restaurant(void) {
@@ -75,7 +75,7 @@ class Italian_Restaurant : public Restaurant {
 };
 class Greek_Restaurant : public Restaurant {
 
-	// So here is the greek menu 
+	//  Here is the greek menu 
 
 public:
 	Greek_Restaurant(void) {
@@ -99,7 +99,7 @@ public:
 };
 class Chinese_Restaurant : public Restaurant {
 
-	// So here is the chinese menu 
+	// Here is the chinese menu 
 public:
 	Chinese_Restaurant(void) {
 
